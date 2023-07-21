@@ -31,7 +31,8 @@ To compile the program, add the following header and txt files
 '4. Sales.txt'
 '5. Credit.txt'
 '6. Inventory.txt'
-## 'Note:'
+
+## *`Note:`*
 
 ```
 Dummy Data for the txt files have been provided.
