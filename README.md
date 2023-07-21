@@ -24,7 +24,7 @@ The program reads and writes data from/to the following text files:
 3. `Sales.txt`: Records the sales transactions.
 
 ## *Compilation and Execution:*
-To compile the program, add the following header and txt files  
+To compile the program, add the following header and txt files are to be included   
 `1. Ledger.h`  
 `2. Products.h`  
 `3. Source.cpp`  
