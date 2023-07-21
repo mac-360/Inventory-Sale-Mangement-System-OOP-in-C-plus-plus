@@ -31,7 +31,7 @@ To compile the program, add the following header and txt files
 '4. Sales.txt'
 '5. Credit.txt'
 '6. Inventory.txt'
-'##Note:'
+## 'Note:'
 
 ```
 Dummy Data for the txt files have been provided.
@@ -64,4 +64,4 @@ Record Added successfully
 ## *Note:*
 This is a simplified inventory management system and may not be suitable for large-scale or production use. Additional features like data validation, error handling, and security measures should be implemented for real-world applications.
 
-## If you have any inquiries or require further clarification regarding the code, please feel free to contact me via email at akhyach307@gmail.com or l227461@lhr.nu.edu.pk. Your valuable feedback concerning this matter would be highly appreciated. Thank you for your kind attention and assistance.
+##' If you have any inquiries or require further clarification regarding the code, please feel free to contact me via email at akhyach307@gmail.com or l227461@lhr.nu.edu.pk. Your valuable feedback concerning this matter would be highly appreciated. Thank you for your kind attention and assistance.'
