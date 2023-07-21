@@ -1,1 +1,1 @@
-# Inventory-Sale-Mangement-System-OOP-in-C-plus-plus
+# Inventory & Sale Mangement System OOP in C plus plus
