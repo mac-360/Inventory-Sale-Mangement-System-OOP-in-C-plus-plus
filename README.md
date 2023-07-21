@@ -25,12 +25,12 @@ The program reads and writes data from/to the following text files:
 
 ## *Compilation and Execution:*
 To compile the program, add the following header and txt files 
-`1. Ledger.h` 
-`2. Products.h`
-`3. Source.cpp`
-`4. Sales.txt`
-`5. Credit.txt`
-`6. Inventory.txt`
+`1. Ledger.h`  
+`2. Products.h`  
+`3. Source.cpp`  
+`4. Sales.txt`  
+`5. Credit.txt`  
+`6. Inventory.txt`  
 
 ## *Note:*
 
